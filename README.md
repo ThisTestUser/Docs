@@ -1,1 +1,1 @@
-This is just a test repo.
+A repo where documents are posted.
