@@ -4,8 +4,8 @@ AntiCheat has gone far from using NPCS...
 ## What are the Killaura detection tricks?
 Invisible players behind - This has been a trick that was used to defeat older client's killauras.  
 This has been bypassed in 95% of the clients.
-
 Almost every single client has a bypass to this (about 50%?), because this is a year old.
+
 Visible players behind - This is a trick that is also a year old, and is patched in most public clients with FOV,
 although there are ways to check if a player is real without FOV...
 
