@@ -28,8 +28,6 @@ but their lack of bypasses to AAC means that it is not good for AAC servers.
 
 **Old Private Clients** - Clients that are private that are from years ago. These contain powerful bypasses
 like Full Block Phase, ScaffoldWalk, and teleport but are pretty much all patched.
-Note: A ScaffoldWalk bypass is possible but not ones that are copied from Saint or other clients. 
-(It never faced the block properly)
 
 **New Private Clients** - The best clients for AAC servers. They have the most modern bypasses and are perfect
 for hacking in GommeHD.net and more. However most of them are not public/downloadable.
