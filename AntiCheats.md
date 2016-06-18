@@ -22,9 +22,6 @@ single snapping killaura would have been detected. This is again exploiting how 
 **Consistency Checks** - These exploit how Killauras can do something a player would not be able to do 
 because of human limitations. Some of these can be bypassed while still giving a player an advantage.
 
-NOTE: I am not attacking clients, I am reminding people how anti-cheats exploit clients to block them,
-and how easy it is to bypass anti-cheats like AAC.
-
 ## Types of Hacked Clients
 **Public Clients** - Clients that have been around for a looong time. Perfect to use on NCP and vanilla servers,
 but their lack of bypasses to AAC means that it is not good for AAC servers.
