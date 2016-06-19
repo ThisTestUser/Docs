@@ -18,6 +18,7 @@ a slient aura.
 
 **Heuristics- Accuracy (AAC)** - This does NOT measure how accurate the player aims. If that were the case every 
 single snapping killaura would have been detected. This is again exploiting how all killauras are the same.
+Currently this and MobInFront are catching all the killauras.
 
 **Consistency Checks** - These exploit how Killauras can do something a player would not be able to do 
 because of human limitations. Some of these can be bypassed while still giving a player an advantage.
