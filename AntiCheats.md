@@ -13,12 +13,14 @@ cursor) for 0.2 seconds. This has never been bypassed in any public client (Hybr
 but can be bypassed using a function that is originally supposed to be used for smooth animations...
 
 **MobInFront** - This trick has never been bypassed in any public client (except for Hybrid), but is very simple 
-because almost every single killaura is designed the same way. It is also possible to bypass this by 
-a slient aura.
+because almost every single killaura is designed the same way. SkillClient seems to have bypassed this but
+it is a lockview aura. It is also possible to bypass this by a slient aura, although your client has to be smart
+and hit the right entity.
 
 **Heuristics- Accuracy (AAC)** - This does NOT measure how accurate the player aims. If that were the case every 
 single snapping killaura would have been detected. This is again exploiting how all killauras are the same.
-Currently this and MobInFront are catching all the killauras.
+Currently this and MobInFront are catching all the killauras. While Hybrid bypassed this I think, SkillClient
+did not.
 
 **Consistency Checks** - These exploit how Killauras can do something a player would not be able to do 
 because of human limitations. Some of these can be bypassed while still giving a player an advantage.
