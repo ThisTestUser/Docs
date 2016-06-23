@@ -1,7 +1,9 @@
 Here's just a quick scribble of facts and opinions about things in hacked clients.
 
 ##Killaura vs KillauraLegit
+
 Differences:
+
 1. KillauraLegit prevents you from going overboard by using things like 6 block
 range, 20 attack speed, and prevents criticals which make you look like a hacker.
 
