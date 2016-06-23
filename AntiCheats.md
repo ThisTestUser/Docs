@@ -1,7 +1,7 @@
 # KILLAURA DETECTION
 AntiCheat has gone far from using NPCS...
 
-## What are the Killaura detection tricks?
+### What are the Killaura detection tricks?
 **Invisible players behind** - This has been a trick that was used to defeat older client's killauras.  
 This has been bypassed in 95% of the clients.
 
@@ -25,7 +25,7 @@ did not.
 **Consistency Checks** - These exploit how Killauras can do something a player would not be able to do 
 because of human limitations. Some of these can be bypassed while still giving a player an advantage.
 
-## Types of Hacked Clients
+### Types of Hacked Clients
 **Public Clients** - Clients that have been around for a looong time. Perfect to use on NCP and vanilla servers,
 but their lack of bypasses to AAC means that it is not good for AAC servers.
 
