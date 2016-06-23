@@ -15,6 +15,11 @@ As you can see, considering that you disabled all suspicious settings and turned
 down (e.g. not setting range to 6 blocks), KillauraLegit will be detected **no slower** 
 than if you use Killaura. 
 
+Why?
+
+KillauraLegit's facing and hitting methods are pretty much idential to Killaura's, with the exception of the things
+mentioned above. KillauraLegit is just as prone to the exploits that AAC uses to catch Killauras.
+
 ###SafeWalk and FastPlace vs ScaffoldWalk
 
 Truth is, if you compare the speed of this on NCP servers, ScaffoldWalk will only be **slightly** faster.
