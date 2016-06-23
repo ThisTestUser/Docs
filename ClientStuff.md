@@ -1,5 +1,10 @@
 Here's just a quick scribble of facts and opinions about things in hacked clients.
 
+###Can you run commands using signs and books in 1.9?
+
+**Yes.** However, you are **limited** of what you can do. One important thing is that you can no longer run
+admin commands as a non-admin. Thus, this is broken. I think you can still do it, but it may be limited by servers.
+
 ###Killaura vs KillauraLegit (Wurst)
 
 Differences:
