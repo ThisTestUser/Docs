@@ -1,6 +1,6 @@
 Here's just a quick scribble of facts and opinions about things in hacked clients.
 
-##Killaura vs KillauraLegit (Wurst)
+###Killaura vs KillauraLegit (Wurst)
 
 Differences:
 
@@ -15,7 +15,7 @@ As you can see, considering that you disabled all suspicious settings and turned
 down (e.g. not setting range to 6 blocks), KillauraLegit will be detected **no slower** 
 than if you use Killaura. 
 
-##SafeWalk and FastPlace vs ScaffoldWalk
+###SafeWalk and FastPlace vs ScaffoldWalk
 
 Truth is, if you compare the speed of this on NCP servers, ScaffoldWalk will only be **slightly** faster.
 
