@@ -1,5 +1,13 @@
 Here's just a quick scribble of facts and opinions about things in hacked clients.
 
+###1.9 - What happened to so much of the mods?
+
+1.9 patched many mods, because most of the patched mods was based on the fact that the server determines your ticks for
+fire and potion effects based on how many C03PacketPlayers you send. This made it easy for clients to spam these packets 
+to speed up time, or stop those packets to prevent fire damage or water damage from ticking. At one point, you could achieve GodMode
+by stopping C03PacketPlayer packets, but that has been patched. In 1.9, this is no longer the case, rendering every mod that used
+this trick useless.
+
 ###Can you run commands using signs and books in 1.9?
 
 **Yes.** However, you are **limited** of what you can do. One important thing is that you can no longer run
