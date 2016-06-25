@@ -8,6 +8,27 @@ to speed up time, or stop those packets to prevent fire damage or water damage f
 by stopping C03PacketPlayer packets, but that has been patched. In 1.9, this is no longer the case, rendering every mod that used
 this trick useless.
 
+###What can Wurst's Killaura bypass?
+
+The truth, and only the truth, about Wurst's Killaura (this also applies for KillauraLegit)
+
+**CAN**
+
+NoCheatPlus - With almost every single killaura facing and attacking correctly, it is almost impossible for NoCheatPlus to cancel
+attacks.
+
+AntiCheat and old anti-cheats - These anti-cheats enforce the same rules as NoCheatPlus, and are therefore bypassed.
+
+AntiAura (checkAura) (**NOT** the one by joehot200) and other plugins which **only** use NPCS - With killaura FOV and invisible players selection, these are easily bypassed.
+
+**CANNOT*
+
+AAC - AAC has multiple checks to ensure that clients are easily detected. Even when not hitting any NPCS, you are still flagged. The last version of AAC that Wurst can bypass is 1.7.X, when only NPCs were used.
+
+AntiAura (joehot200) - This one also has some good checks to detect Wurst. It doesn't rely on NPCS, and this is why it is detected.  
+
+Reflex and any other heuristics anti-cheat plugins - They use maths to catch killauras.
+
 ###Can you run commands using signs and books in 1.9?
 
 **Yes.** However, you are **limited** of what you can do. One important thing is that you can no longer run
