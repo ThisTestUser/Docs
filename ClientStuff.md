@@ -21,7 +21,7 @@ AntiCheat and old anti-cheats - These anti-cheats enforce the same rules as NoCh
 
 AntiAura (checkAura) (**NOT** the one by joehot200) and other plugins which **only** use NPCS - With killaura FOV and invisible players selection, these are easily bypassed.
 
-**CANNOT*
+**CANNOT**
 
 AAC - AAC has multiple checks to ensure that clients are easily detected. Even when not hitting any NPCS, you are still flagged. The last version of AAC that Wurst can bypass is 1.7.X, when only NPCs were used.
 
