@@ -14,20 +14,20 @@ The truth, and only the truth, about Wurst's Killaura (this also applies for Kil
 
 **CAN**
 
-NoCheatPlus - With almost every single killaura facing and attacking correctly, it is almost impossible for NoCheatPlus to cancel
+*NoCheatPlus* - With almost every single killaura facing and attacking correctly, it is almost impossible for NoCheatPlus to cancel
 attacks.
 
-AntiCheat and old anti-cheats - These anti-cheats enforce the same rules as NoCheatPlus, and are therefore bypassed.
+*AntiCheat and old anti-cheats* - These anti-cheats enforce the same rules as NoCheatPlus, and are therefore bypassed.
 
-AntiAura (checkAura) (**NOT** the one by joehot200) and other plugins which **only** use NPCS - With killaura FOV and invisible players selection, these are easily bypassed.
+*AntiAura* (checkAura) (**NOT** the one by joehot200) and other plugins which **only** use NPCS - With killaura FOV and invisible players selection, these are easily bypassed.
 
 **CANNOT**
 
-AAC - AAC has multiple checks to ensure that clients are easily detected. Even when not hitting any NPCS, you are still flagged. The last version of AAC that Wurst can bypass is 1.7.X, when only NPCs were used.
+*AAC* - AAC has multiple checks to ensure that clients are easily detected. Even when not hitting any NPCS, you are still flagged. The last version of AAC that Wurst can bypass is 1.7.X, when only NPCs were used.
 
-AntiAura (joehot200) - This one also has some good checks to detect Wurst. It doesn't rely on NPCS, and this is why it is detected.  
+*AntiAura* (joehot200) - This one also has some good checks to detect Wurst. It doesn't rely on NPCS, and this is why it is detected.  
 
-Reflex and any other heuristics anti-cheat plugins - They use maths to catch killauras.
+*Reflex and any other heuristics anti-cheat plugins* - They use maths to catch killauras.
 
 ###Can you run commands using signs and books in 1.9?
 
