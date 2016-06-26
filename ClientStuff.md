@@ -29,6 +29,13 @@ attacks.
 
 *Reflex and any other heuristics anti-cheat plugins* - They use maths to catch killauras.
 
+###Hybrid's NoFall "Bypass"
+I have successfully reverse engineered Hybrid's NoFall bypass and implanted it successfully into my client.
+
+Thing is, its NoFall is no different from other NoFalls, except that it does a certain thing to "trick" AAC
+into giving you little to no fall damage.
+
+This is why you can still get kicked because after failing NoFall 30 times you get kicked.
 ###Can you run commands using signs and books in 1.9?
 
 **Yes.** However, you are **limited** of what you can do. One important thing is that you can no longer run
