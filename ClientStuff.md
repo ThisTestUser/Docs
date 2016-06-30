@@ -13,6 +13,10 @@ this trick useless.
 
 Yes. Both in 1.8 and 1.9. However, it will only do so **only when implanted correctly**. This means that you must be able to block and run at full speed whenever a player is in range. You also need to make sure that the server acknowledges that you are blocking. If you can hit when you are blocking without releasing or modifing how mouse clicking is fired, you are already doing something wrong. If NoSlowdown works when you are blocking without any bypasses, you are also doing something wrong.
 
+###CrashHead Exploit
+
+The CrashHead exploit is an exploit to crash clients. It involves creative mode and block placing permissions. This hack was known a long time ago, when it was only featured in private clients. However, due to a client leaking the exploit to the public, this may be patched. Currently this works on vanilla and Bukkit/Spigot servers, and no plugin can stop this.
+
 ###What can Wurst's Killaura bypass?
 
 The truth, and only the truth, about Wurst's Killaura (this also applies for KillauraLegit)
