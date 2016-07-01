@@ -17,6 +17,8 @@ Yes. Both in 1.8 and 1.9. However, it will only do so **only when implanted corr
 
 The CrashHead exploit is an exploit to crash clients. It involves creative mode and block placing permissions. This hack was known a long time ago, when it was only featured in private clients. However, due to a client leaking the exploit to the public, this may be patched. Currently this works on vanilla and Bukkit/Spigot servers, and no plugin can stop this.
 
+I have already crashed and prevented over a 100 players (just in 2 days span) from joining just because of this new exploit. 
+
 ###What can Wurst's Killaura bypass?
 
 The truth, and only the truth, about Wurst's Killaura (this also applies for KillauraLegit)
