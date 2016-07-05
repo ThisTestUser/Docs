@@ -35,7 +35,7 @@ like Full Block Phase, ScaffoldWalk, and teleport but are pretty much all patche
 **New Private Clients** - The best clients for AAC servers. They have the most modern bypasses and are perfect
 for hacking in GommeHD.net and more. However most of them are not public/downloadable.
 
-###Why GommeHD.net and AAC Test Servers are a Poor Demonstration  of AAC's Abilities
+###Why GommeHD.net and AAC Test Servers are a Poor Demonstration of AAC's Abilities
 
 There is only 1 difference - They do not kick the player.
 
