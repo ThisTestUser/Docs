@@ -34,3 +34,11 @@ like Full Block Phase, ScaffoldWalk, and teleport but are pretty much all patche
 
 **New Private Clients** - The best clients for AAC servers. They have the most modern bypasses and are perfect
 for hacking in GommeHD.net and more. However most of them are not public/downloadable.
+
+###Why GommeHD.net and AAC Test Servers are a Poor Demonstration  of AAC's Abilities
+
+There is only 1 difference - They do not kick the player.
+
+- If you do not kick the player, it is very easy to glide on AAC (with taking tons of damage), because your Speed, Glide, and NoFall violations can be above 1000 and there will still be no kick. On an AAC server that kicks however, you would be kicked after flying 5-10 blocks.
+- The Killaura detection is easily bypassed if there is no kick. You only have the fake players and the MobInFront, which are very easy to bypass. For example, GafferTV's client appears to bypass Killaura because it was tested on GommeHD only, but in reality the client gets kicked for a Heuristics check after 15 seconds. If your killaura appears to bypass it, the server may have disabled Heuristics completely.
+- Toggle Use/Sneak checks are useless if you don't kick. I could show a "bypass" for AAC's sneaking check but I would be kicked after 3 seconds in reality.
