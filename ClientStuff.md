@@ -88,4 +88,6 @@ So what's the advantage?
 
 2. Faster - On specific servers you can go really fast (about twice as fast) with this hack, however on NCP servers you can get stopped for FastPlace. It doesn't matter for most private clients anyways, their ScaffoldWalk can't even look at the block properly (all are copied from Saint or some other client) so there's the speed. Also that ScaffoldWalk allows you to walk at full speed while sprinting, while with SafeWalk you can't sprint (unless you also have sprinting backwards hack).
 
+###FakeHackers Code Dump (1.9)
 
+http://pastebin.com/WqL1S6mw
