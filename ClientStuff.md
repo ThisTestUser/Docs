@@ -91,4 +91,14 @@ So what's the advantage?
 ###FakeHackers Code Dump (1.9)
 
 All code belongs to and is written by ThisTestUser.
+
 http://pastebin.com/WqL1S6mw
+
+Every client should have this.
+
+**Why?**
+
+If this popular, there are 2 ways this can go:
+
+1. FakeHackers gets as many legit players banned as hacked players.
+2. Staff become more aware of this, and they have to actually see you taking damage or they have to see the hacking firsthand, saving a lot of hackers from ban.
