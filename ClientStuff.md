@@ -90,4 +90,5 @@ So what's the advantage?
 
 ###FakeHackers Code Dump (1.9)
 
+All code belongs to and is written by ThisTestUser.
 http://pastebin.com/WqL1S6mw
