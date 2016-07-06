@@ -100,5 +100,5 @@ Every client should have this.
 
 If this popular, there are 2 ways this can go:
 
-1. FakeHackers gets as many legit players banned as hacked players.
+1. FakeHackers gets legit players banned as well as hacking players.
 2. Staff become more aware of this, and they have to actually see you taking damage or they have to see the hacking firsthand, saving a lot of hackers from ban.
