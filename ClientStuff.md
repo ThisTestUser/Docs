@@ -44,6 +44,12 @@ attacks.
 
 *Reflex and any other heuristics anti-cheat plugins* - They use maths to catch killauras.
 
+###AAC Teleport
+
+This mod does not go as far as you think. It only goes to about 30 blocks and then you get dragged back if you go any further.
+
+Clue: Besides the original way of doing it (source code for Teleport non bypass is public, search it up), teleport does 2 things before and after the teleporting.
+
 ###Hybrid's NoFall "Bypass"
 I have successfully reverse engineered Hybrid's NoFall bypass and implanted it successfully into my client.
 
