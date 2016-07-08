@@ -48,7 +48,7 @@ attacks.
 
 This mod does not go as far as you think. It only goes to about 30 blocks and then you get dragged back if you go any further.
 
-Clue: Besides the original way of doing it (source code for Teleport non bypass is public, search it up), teleport does 2 things before and after the teleporting.
+Clue: Besides the original way of doing it (source code for Teleport non bypass is public, search it up), teleport does 1 thing before and 1 thing after the actual teleporting.
 
 ###Hybrid's NoFall "Bypass"
 I have successfully reverse engineered Hybrid's NoFall bypass and implanted it successfully into my client.
