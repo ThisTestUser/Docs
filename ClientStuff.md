@@ -13,6 +13,40 @@ this trick useless.
 
 Yes. Both in 1.8 and 1.9. However, it will only do so **only when implanted correctly**. This means that you must be able to block and run at full speed whenever a player is in range. You also need to make sure that the server acknowledges that you are blocking. If you can hit when you are blocking without releasing or modifing how mouse clicking is fired, you are already doing something wrong. If NoSlowdown works when you are blocking without any bypasses, you are also doing something wrong.
 
+###Carrot Client
+
+A pure example of how stupid/skiddy some clients can be and wizardhax still allows it.
+
+**Obfuscation**- It claims to be "skid-protected", but the MC source was **never obfuscated**! 
+
+**Killaura**- NONE of them bypass anything. It never even faced the target, and it won't even get around AntiCheat if its for 1.10, let alone AAC, which requires more tweaks to killaura to bypass then ever. 
+
+**Bypass Section**
+
+**Glides**- NONE of them bypass AAC nor NCP.
+
+For instance:
+
+-AAC Glide is almost 7 months old.
+
+**Speed**- The speed AAC,NCP might bypass, but its skidded from other clients.
+
+-Non of the BHops will bypass (except if they give 0 advantage of course)
+
+-AAC Jesus is skidded so much that he didn't know you could remove the 5.9x statement because it will get overwritten. It also does not give a high advantage.
+
+-NoFall doesn't bypass at all.
+
+-NCP Fly is just plain stupid. Performing the hurt animation doesn't deal damage to you!
+
+-AAC Fly is almost the same as vanilla fly.
+
+-Inventory Move is a skid, and is not implanted.
+
+-AAC Step is also a skid (and doesn't work).
+
+So you see, this client is utter trash. The GUI display is also messed up, and its better for you to stick to your own client.
+
 ###CrashHead Exploit
 
 The CrashHead exploit is an exploit to crash clients. It involves creative mode and block placing permissions. This hack was known a long time ago, when it was only featured in private clients. However, due to a client leaking the exploit to the public, this may be patched. Currently this works on vanilla and Bukkit/Spigot servers, and no plugin can stop this. The Spigot team doesn't even know about this. 
