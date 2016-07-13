@@ -12,19 +12,19 @@ this trick useless.
 
 Lets review all the AAC bypasses I have...
 
--Killaura - The most important AAC bypass, as it is the only bypass to work on NCP servers (speed only works on test NCP servers)
+-**Killaura** - The most important AAC bypass, as it is the only bypass to work on NCP servers (speed only works on test NCP servers)
 
--Speed - Another very good AAC bypass, however you may get dragged back after a certain amount of time so its better to toggle this on and off.
+-**Speed** - Another very good AAC bypass, however you may get dragged back after a certain amount of time so its better to toggle this on and off.
 
--Jesus - It doesn't give much of an advantage, but otherwise its good.
+-**Jesus** - It doesn't give much of an advantage, but otherwise its good.
 
--Teleport - The delay between clicking the location and teleporting is too long, and it is now exteremely short-ranged.
+-**Teleport** - The delay between clicking the location and teleporting is too long, and it is now exteremely short-ranged.
 
--Phase - Ever since AAC 1.9.10 its been heavily nerfed, it can only go through glass panes and iron bars, so it may be used but it might not work that well (or blocked completely).
+-**Phase** - Ever since AAC 1.9.10 its been heavily nerfed, it can only go through glass panes and iron bars, so it may be used but it might not work that well (or blocked completely).
 
--NoFall - Can get you kicked if you try to fall to far. You also have to fall normally for the next time you fall.
+-**NoFall** - Can get you kicked if you try to fall to far. You also have to fall normally for the next time you fall.
 
--Glide - You can only glide about 5 blocks (on AAC 1.9.10) with my new glide, I also have an old glide but its completely blocked in AAC 1.9.10. Its kind of useless unless the server has kicking disabled.
+-**Glide** - You can only glide about 5 blocks (on AAC 1.9.10) with my new glide, I also have an old glide but its completely blocked in AAC 1.9.10. Its kind of useless unless the server has kicking disabled.
 
 ###AAC Bypass Level
 
