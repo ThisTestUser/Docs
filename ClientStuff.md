@@ -33,6 +33,14 @@ Latest NCP mostly reflects this, but for some mods it doesn't.
 1. AAC doesn't block fastclick, which allows you to move items instantly.
 2. AAC blocked packet sneak bypass (and any other similar bypasses) and all auras except Triggerbot.
 
+###SkillClient Killaura
+
+-Only bypasses an old version of AAC (and its because he skidded the bypass)
+
+-Limited to 3 blocks (can't reach far with objectMouseOver, dev can't fix it because the whole idea was skidded)
+
+-Faces client side instead of packet facing (MC source not public = can't skid packet facing functions)
+
 ###Does BlockHitting make you take less damage?
 
 Yes. Both in 1.8 and 1.9. However, it will only do so **only when implanted correctly**. This means that you must be able to block and run at full speed whenever a player is in range. You also need to make sure that the server acknowledges that you are blocking. If you can hit when you are blocking without releasing or modifing how mouse clicking is fired, you are already doing something wrong. If NoSlowdown works when you are blocking without any bypasses, you are also doing something wrong.
