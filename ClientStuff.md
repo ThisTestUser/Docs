@@ -37,7 +37,7 @@ Latest NCP mostly reflects this, but for some mods it doesn't.
 
 -Only bypasses an old version of AAC (and its because he skidded the bypass)
 
--Limited to 3 blocks (can't reach far with objectMouseOver, dev can't fix it because the whole idea was skidded)
+-Limited to 3 blocks (dev can't fix it because the whole idea was skidded)
 
 -Faces client side instead of packet facing (MC source not public = can't skid packet facing functions)
 
