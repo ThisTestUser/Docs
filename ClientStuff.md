@@ -26,6 +26,8 @@ Lets review all the AAC bypasses I have...
 
 -**Glide** - You can only glide about 5 blocks (on AAC 1.9.10) with my new glide, I also have an old glide but its completely blocked in AAC 1.9.10. Its kind of useless unless the server has kicking disabled.
 
+UPDATE 7/16/16: Most of these are patched. They can only be used on outdated AAC servers now.
+
 ###AAC Bypass Level
 
 Latest NCP mostly reflects this, but for some mods it doesn't.
