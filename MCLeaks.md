@@ -26,5 +26,9 @@ Here are the dates where MCLeaks talks about MCLeaksV2:
 
 **July 30, 2016**- AltDispenser says a fix will be coming out on Sunday (will they make it?)
 
+**August 4, 2016**- AltDispenser says its delayed!
+
+**August 4, 2016**- MCLeaks states that it will be out today. Devs will be rushing to implant this into their clients.
+
 **Moral of the story:** If it isn't finished or it probably doesn't work, don't say it is finished. Its better to state "new features coming
 out!!!" the day before and surprise everyone than say its finished 2 months before it really is.
