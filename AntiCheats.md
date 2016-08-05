@@ -25,6 +25,13 @@ did not.
 **Consistency Checks** - These exploit how Killauras can do something a player would not be able to do 
 because of human limitations. Some of these can be bypassed while still giving a player an advantage.
 
+###Hypixel Anti-Cheat
+
+Since MCLeaksV2 is out and I think I pretty much have unlimited alts (and I intergrated this into my own client),
+this is some notes about Hypixel's Anti-Cheat.
+
+1. NPC-Based (at least mostly) - I got banned after a random entity with armor and visible just teleported to me.
+
 ### Types of Hacked Clients
 **Public Clients** - Clients that have been around for a looong time. Perfect to use on NCP and vanilla servers,
 but their lack of bypasses to AAC means that it is not good for AAC servers.
