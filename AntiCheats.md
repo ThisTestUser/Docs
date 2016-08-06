@@ -27,6 +27,20 @@ because of human limitations. Some of these can be bypassed while still giving a
 
 ###Hypixel Anti-Cheat
 
+Hypixel Entities (I only checked the invis ones flying around, not the visible ones)
+
+-Entity ID is normal (not out of range)
+
+-Not creative or flying
+
+-Walk speed is 0.10 like any other entity
+
+-Isn't onGround (however onGround is true sometimes for real entities) and falldistance is 0
+
+-Randomly generated names (not on tablist)
+
+-No motionX, motionY, or motionZ (uses teleport packets to move around)
+
 Since MCLeaksV2 is out and I think I pretty much have unlimited alts (and I intergrated this into my own client),
 this is some notes about Hypixel's Anti-Cheat.
 
