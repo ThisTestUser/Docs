@@ -44,7 +44,8 @@ Hypixel Entities (I only checked the invis ones flying around, not the visible o
 Since MCLeaksV2 is out and I think I pretty much have unlimited alts (and I intergrated this into my own client),
 this is some notes about Hypixel's Anti-Cheat.
 
-1. NPC-Based (at least mostly) - I got banned after a random entity with armor and visible just teleported to me.
+1. NPC-Based (at least mostly) - I got banned after a random entity with armor and visible just teleported to me. (This also
+means) that no public clients bypass WatchDog now, because no one has managed to filter the entities.
 
 ### Types of Hacked Clients
 **Public Clients** - Clients that have been around for a looong time. Perfect to use on NCP and vanilla servers,
