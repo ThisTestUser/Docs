@@ -25,6 +25,10 @@ did not.
 **Consistency Checks** - These exploit how Killauras can do something a player would not be able to do 
 because of human limitations. Some of these can be bypassed while still giving a player an advantage.
 
+###CosmicCraft Anti-Cheat
+
+This is the only server that I've seen actually bother to config their anticheat. Killaura is nearly impossible there (with public clients), with the NPCS catching 95% of the players. Even clients like SkillClient, which have AAC NPC filters, fail to fliter the NPCS in CosmicCraft, and Hybrid probably fails too (Even though they use AAC). The Heuristics checks actually work there, which means that reduced FOV and unchecking invisible players won't work either (and it works WITHOUT any NPCS). Making a Killaura that actually works there even with reduced advantages (lowered FOV and no targetting invisible players) is a hard challenge only by the best clients, and making one that works there with full FOV and targetting invisible players is only possible by using the best of the best clients.
+
 ###Hypixel Anti-Cheat
 
 Hypixel Entities (I only checked the invis ones flying around, not the visible ones)
