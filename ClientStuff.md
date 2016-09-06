@@ -49,6 +49,16 @@ Yes. Both in 1.8 and 1.9. However, it will only do so **only when implanted corr
 
 ###Carrot Client
 
+Now lets see how 0.9.1 does...
+
+AAC Click TP - This isn't how it is supposed to be done at all.
+
+AntiAAC - This also is a fail.
+
+AAC Fly - Another fail, even if it does work it can only fly about 3 blocks.
+
+AAC Spider - Looks like a fail phase.
+
 A pure example of how stupid/skiddy some clients can be and wizardhax still allows it.
 
 **Obfuscation**- It claims to be "skid-protected", but the MC source was **never obfuscated**! 
