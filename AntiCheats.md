@@ -53,6 +53,10 @@ means) that no public clients bypass WatchDog now, because no one has managed to
 
 But is it possible? Definitely... (at least for now)
 
+### GWEN Phase 2, What does this mean?
+
+At GWEN phase 2, bypassing is now becoming extremely difficult. Clients that previously were able to filter entities to bypass will ***no longer*** work. The checks have been shown to catch clients even at low settings (e.g. 60 FOV and invisible players off), so now bypassing will be a lot more difficult.
+
 ### Types of Hacked Clients
 **Public Clients** - Clients that have been around for a looong time. Perfect to use on NCP and vanilla servers,
 but their lack of bypasses to AAC means that it is not good for AAC servers.
