@@ -8,6 +8,12 @@ to speed up time, or stop those packets to prevent fire damage or water damage f
 by stopping C03PacketPlayer packets, but that has been patched. In 1.9, this is no longer the case, rendering every mod that used
 this trick useless.
 
+###Wolfram Client - Why Was it Shut Down?
+
+1. A person (whose twitter account has been deleted) helped to shut down the project, he was angry with Shadowspl0it for something.
+
+2. Shadow went to his site and saw it being parked (I think)
+
 ###Why AAC Bypasses Are (Mostly) Not Good
 
 Lets review all the AAC bypasses I have...
