@@ -11,8 +11,11 @@ this trick useless.
 ###Wolfram Client - Why Was it Shut Down?
 
 1. A person (whose twitter account has been deleted) helped to shut down the project, he was angry with Shadowspl0it for something.
-
 2. Shadow went to his site and saw it being parked (I think)
+
+###Wolfram Client - Good Bypasses or No?
+
+Wolfram had good bypasses because the dev always updated it with the latest bypasses. For example, back when Wolfram was being developed, MoreInv and InvWalk were all things that other clients did not have. Now, with the rise of new bypasses, Wolfram is no longer the top bypassing client...
 
 ###Why AAC Bypasses Are (Mostly) Not Good
 
