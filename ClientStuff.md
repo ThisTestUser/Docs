@@ -8,6 +8,13 @@ to speed up time, or stop those packets to prevent fire damage or water damage f
 by stopping C03PacketPlayer packets, but that has been patched. In 1.9, this is no longer the case, rendering every mod that used
 this trick useless.
 
+
+###Bypassing GWEN and Watchdog...
+
+is much more difficult than expected. Using old school tricks such as ignoring invisibles or hit/miss rate will simply not work. Even newer tricks like ignoring armor-less entities will fail to function. Even FOV, long regarded to be the most effective way to bypass, will fail. (unless you put like 20 FOV which is more of a Triggerbot, and it will STILL sometimes hit the NPC)
+
+So unless you can actually filter the entities (with no false positive or false negative), it will not bypass.
+
 ###Wolfram Client - Why Was it Shut Down?
 
 1. A person (whose twitter account has been deleted) helped to shut down the project, he was angry with Shadowspl0it for something.
