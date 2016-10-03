@@ -15,6 +15,8 @@ is much more difficult than expected. Using old school tricks such as ignoring i
 
 So unless you can actually filter the entities (with no false positive or false negative), it will not bypass.
 
+There are only a few clients that can bypass it right now, and when the Phase 2 checks start banning people that number will roll to 0. Even 20 FOV Killaura won't bypass it.
+
 ###Wolfram Client - Why Was it Shut Down?
 
 1. A person (whose twitter account has been deleted) helped to shut down the project, he was angry with Shadowspl0it for something.
