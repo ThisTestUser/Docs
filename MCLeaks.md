@@ -1,5 +1,15 @@
 #MCLeaks Stuff
 
+###MCLeaks Stealing Accounts?
+
+**Maybe.**
+
+The old AltChecker definitely shared the alts, but it said in the bottom in **bold** that the alts will be shared. However, some people don't look at the text at the bottom, so that really got a lot of the people.
+
+THe new AltLoader has the potential to steal accounts, but a person has to test if it does.
+
+The Authenticator at https://mcleaks.net/authenticator also has to chance to steal accounts, but if you use it correctly, the chance of your account stolen is exteremely slim.
+
 ###MCLeaksV2 - Is it really done?
 
 The thing is, this MCLeaksV2 has taken months now, despite the fact that they say its done. MCLeaks is probably announcing dates early,
