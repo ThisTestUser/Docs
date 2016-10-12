@@ -2,7 +2,7 @@
 
 ###MCLeaks Stealing Accounts?
 
-**Maybe.**
+**No.**
 
 The old AltChecker definitely shared the alts, but it said in the bottom in **bold** that the alts will be shared. However, some people don't look at the text at the bottom, so that really got a lot of the people.
 
