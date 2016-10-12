@@ -6,9 +6,11 @@
 
 The old AltChecker definitely shared the alts, but it said in the bottom in **bold** that the alts will be shared. However, some people don't look at the text at the bottom, so that really got a lot of the people.
 
-THe new AltLoader has the potential to steal accounts, but a person has to test if it does.
+The new AltLoader does not steal alts, because your alt data (session id, name) is not sent to MCLeaks if the MCLeaks session is not active.
 
-The Authenticator at https://mcleaks.net/authenticator also has to chance to steal accounts, but if you use it correctly, the chance of your account stolen is exteremely slim.
+The Authenticator at https://mcleaks.net/authenticator pretty much can't steal alts at all. Even if they secretly do (which they don't), only the session id will be taken, which will **probably not work** because of Mojang's patches (nor will extracting the data work because of this patch). 
+
+tl;dr: MCLeaks **does not** steal accounts.
 
 ###MCLeaksV2 - Is it really done?
 
